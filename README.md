@@ -17,9 +17,9 @@ I'm a passionate React developer with a love for crafting interactive and effici
 
 👇 Here are some projects I've been working on:
 
-- **1)Project 1: Tic-Tac-Toe ]([Link-to-Project-1](https://github.com/Cozylynx/Tic--Tac--Toe.git)) - TIC-TAC-TOE game using ReactJs.
--Project 2: Library System]([Link-to-Project-2](https://github.com/Cozylynx/Hospital-System.git)) - Hospital System in C++17.
--Project 3: Library System ]([Link-to-Project-3]([https://github.com/Cozylynx/Tic--Tac--Toe.git](https://github.com/Cozylynx/Library-System-.git))) - Library -System in C++!& .
+- Project 1: Tic-Tac-Toe ]([Link-to-Project-1](https://github.com/Cozylynx/Tic--Tac--Toe.git)) - TIC-TAC-TOE game using ReactJs.
+- Project 2: Library System]([Link-to-Project-2](https://github.com/Cozylynx/Hospital-System.git)) - Hospital System in C++17.
+- Project 3: Library System ]([Link-to-Project-3]([https://github.com/Cozylynx/Tic--Tac--Toe.git](https://github.com/Cozylynx/Library-System-.git))) - Library -System in C++!& .
 
 Feel free to explore my repositories for more!
 
