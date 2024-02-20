@@ -17,7 +17,7 @@ I'm a passionate React developer with a love for crafting interactive and effici
 
 👇 Here are some projects I've been working on:
 
-- [Project]: [TIC-TAC-TOE]([Link-to-Project-1](https://github.com/Cozylynx/Tic--Tac--Toe.git)) - Tic-Tac-Toe Game using ReactJs, HTML5, CSS. 
+Project 1: Tic-Tac-Toe ]([Link-to-Project-1](https://github.com/Cozylynx/Tic--Tac--Toe.git)) - TIC-TAC-TOE game using ReactJs.
 
 Feel free to explore my repositories for more!
 
