@@ -28,3 +28,5 @@ Feel free to explore my repositories for more!
 📫 How to reach me: [Email](mailto:thapagaurav.tg777@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gaurav-132b631b7/).
 
 Let's code something amazing together! 🚀
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cozylynx&theme=radical)
