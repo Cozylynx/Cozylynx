@@ -1,4 +1,4 @@
-# Hi there, I'm [Gaurav]! 👋
+# Hi there, I'm Gaurav! 👋
 
 I'm a passionate React developer with a love for crafting interactive and efficient web solutions. My proficiency extends across various programming languages, including C, C++, and JavaScript.
 
